@@ -11,7 +11,7 @@ const port = 5002;
 const db = mysql.createConnection({
     host: 'localhost',
     user: 'root',
-    password: 'Deku@199121',
+    password: 'yourpass',
     database: 'bus_reservation_system'
 });
 
